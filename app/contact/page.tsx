@@ -115,13 +115,13 @@ export default function ContactPage() {
             
             {/* IMPORTANT: Added Netlify form attributes */}
             <form 
-              name="contact" 
-              method="POST" 
-              data-netlify="true"
-              netlify-honeypot="bot-field"
-              onSubmit={handleSubmit} 
-              className="contact-form-new"
-            >
+  name="contact" 
+  method="POST" 
+  data-netlify="true"
+  netlify-honeypot="bot-field"
+  action="/success"
+  onSubmit={handleSubmit}
+>
               {/* Netlify required hidden fields */}
               <input type="hidden" name="form-name" value="contact" />
               <div style={{ display: 'none' }}>
