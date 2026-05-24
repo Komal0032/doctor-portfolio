@@ -12,8 +12,7 @@ export default function AboutPage() {
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.5fr', gap: '3rem', marginBottom: '4rem' }}>
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=500&h=600&fit=crop" 
-              alt="Dr. Manoj"
+              src=""
               style={{ width: '100%', borderRadius: '1rem', boxShadow: '0 10px 25px rgba(0,0,0,0.1)' }}
             />
           </div>
