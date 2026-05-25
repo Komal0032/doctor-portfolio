@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aarogyam Homeopathy Clinic Website
 
-## Getting Started
+## 🏥 Live Website
+[https://aarogyamhomoeopathy.netlify.app](https://aarogyamhomoeopathy.netlify.app)
 
-First, run the development server:
+## 📋 Project Overview
+A professional portfolio website for Dr. Krushna's Homeopathy Clinic. **This is my first paid client project as a freelance developer.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍💼 Client
+Dr. Krushna D. Thorat - Homeopathy Practitioner, Nashik, Maharashtra
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
+- ✅ Fully responsive design (mobile, tablet, desktop)
+- ✅ Contact form with Netlify backend (auto-email)
+- ✅ Google Maps integration
+- ✅ Appointment booking system
+- ✅ Services showcase with 9+ treatments
+- ✅ Professional doctor profile
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technologies Used
+| Technology | Purpose |
+|------------|---------|
+| Next.js 16 | React framework |
+| TypeScript | Type safety |
+| CSS3 / Tailwind | Styling |
+| Netlify | Hosting + Forms |
+| GoDaddy | Custom domain |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📂 Project Structure
