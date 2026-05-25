@@ -1,7 +1,9 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer'; // Make sure to import your new Footer component!
+import Footer from './components/Footer'; 
+import WhatsAppButton from './components/WhatsAppButton';
+
 
 export const metadata: Metadata = {
   title: "Dr. Krushna's Homeopathy Clinic",
@@ -25,6 +27,7 @@ export default function RootLayout({
         
         {/* Moved inside the body tag */}
         <Footer />
+        <WhatsAppButton />
       </body>
     </html>
   );
