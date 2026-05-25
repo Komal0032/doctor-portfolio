@@ -179,21 +179,21 @@ export default function AppointmentPage() {
               </ul>
             </div>
 
-            <div className="info-card">
+            {/*<div className="info-card">
               <h3>💰 Consultation Fees</h3>
               <div className="fee-item">
                 <span>First Consultation</span>
-                <span className="fee-price">₹500</span>
+                <span className="fee-price">-</span>
               </div>
               <div className="fee-item">
                 <span>Follow-up Visit</span>
-                <span className="fee-price">₹300</span>
+                <span className="fee-price">-</span>
               </div>
               <div className="fee-item">
                 <span>Online Consultation</span>
-                <span className="fee-price">₹400</span>
+                <span className="fee-price">-</span>
               </div>
-            </div>
+            </div>*/}
 
             <div className="info-card">
               <h3>🕐 Clinic Hours</h3>
@@ -214,8 +214,8 @@ export default function AppointmentPage() {
             <div className="info-card">
               <h3>📞 Need Help?</h3>
               <p>Call us directly to book an appointment</p>
-              <div className="help-phone">+91 98765 43210</div>
-              <div className="help-email">contact@drmanojhomeopathy.com</div>
+              <div className="help-phone">+91 9764966675</div>
+              <div className="help-email">aarogyamhomoeopathynashik@gmail.com</div>
             </div>
           </div>
         </div>

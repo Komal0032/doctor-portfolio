@@ -5,7 +5,7 @@ export async function POST(request: Request) {
     const body = await request.json();
     console.log('Form data received:', body);
     
-    // For now, just return success (testing)
+    
     return NextResponse.json({ 
       success: true, 
       message: 'Email would be sent here' 
