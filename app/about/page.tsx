@@ -1,7 +1,7 @@
 export default function AboutPage() {
   return (
     <div>
-      {/* Hero Section */}
+      {/* Hero  */}
       <div style={{ background: 'linear-gradient(135deg, #059669, #10b981)', padding: '4rem 2rem', textAlign: 'center', color: 'white' }}>
         <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>About Dr. Krushna</h1>
         <p style={{ fontSize: '1.25rem' }}>4+ Years of Excellence in Homeopathy</p>
